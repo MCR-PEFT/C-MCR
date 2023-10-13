@@ -1,0 +1,5 @@
+**__pycache__
+.vscode
+.DS_Store
+checkpoints/laion_clap_fullset_fusion.pt
+checkpoints/pointbert_ULIP-2.pt
