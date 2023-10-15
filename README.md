@@ -1,7 +1,9 @@
 # C-MCR: Connecting Multi-modal Contrastive Representation
 Zehan Wang∗, Yang Zhao, Xize Cheng, Haifeng Huang, Jiageng Liu, Li Tang, Linjun Li, Yongqi Wang, Aoxiong Yin, Ziang Zhang, Zhou Zhao†
 
-This paragraph is being written...
+C-MCR is a training-efficient and paired-data-free method to flexibly learn new multi-modal contrastive representations, by connecting two existing multi-modal contrastive representation spaces.
+
+This implementation provides 3D-language contrastive representation by connecting CLIP and ULIP-2, and audio-visual contrastive representation by connecting CLIP and CLAP.
 
 ![pipeline](./pipeline.png)
 

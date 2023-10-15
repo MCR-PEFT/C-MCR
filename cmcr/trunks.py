@@ -14,8 +14,7 @@ from cmcr.type import ModalityType
 
 CLAP_DIR = './checkpoints/laion_clap_fullset_fusion.pt'
 ULIP_DIR = './checkpoints/pointbert_ULIP-2.pt'
-# CLIP_DIR = 'openai/clip-vit-base-patch32'
-CLIP_DIR = '/home/wangzehan/.cache/huggingface/hub/clip-vit-base-patch32'
+CLIP_DIR = 'openai/clip-vit-base-patch32'
 
 def get_args_parser():
     parser = argparse.ArgumentParser(description='ULIP training and evaluation', add_help=False)
