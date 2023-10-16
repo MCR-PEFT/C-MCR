@@ -9,7 +9,7 @@ This implementation provides 3D-language contrastive representation by connectin
 
 ## News
 
-- [10/16/2023] Ex-MCR has been released! [[paper](https://arxiv.org/abs/2310.08884)]
+- [10/16/2023] Ex-MCR has been released! [[paper](https://arxiv.org/abs/2310.08884)] [[code](https://github.com/MCR-PEFT/Ex-MCR)]
 - [10/11/2023] Source Code of C-MCR has been released! [[code](https://github.com/MCR-PEFT/C-MCR)]
 - [09/22/2023] C-MCR has been accepted by NIPS 2023!🔥🔥🔥 [[paper](https://arxiv.org/abs/2305.14381)]
 
