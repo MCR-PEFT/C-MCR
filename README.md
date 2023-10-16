@@ -166,6 +166,14 @@ If you find this proiect useful in our research, please consider giving a star :
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+@misc{wang2023extending,
+      title={Extending Multi-modal Contrastive Representations}, 
+      author={Zehan Wang and Ziang Zhang and Luping Liu and Yang Zhao and Haifeng Huang and Tao Jin and Zhou Zhao},
+      year={2023},
+      eprint={2310.08884},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 lf you have any questions or suggestions, feel free to drop us an email ( wangzehan01@zju.edu.cn, ziangzhang@zju.edu.cn ) or open an issue.
