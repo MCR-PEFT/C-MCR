@@ -12,7 +12,7 @@ numpy==1.24.0
 open3d==0.17.0
 opencv-python==4.7.0.72
 pandas==2.0.1
-pillow==9.5.0
+pillow==10.3.0
 regex==2023.5.5
 soundfile==0.12.1
 termcolor==2.3.0
